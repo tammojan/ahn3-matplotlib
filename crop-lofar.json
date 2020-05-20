@@ -1,0 +1,1 @@
+{"pipeline":["/data/C_17FN2.LAZ", {"type":"filters.crop", "bounds": "([253193,256658],[546804, 550200])"}, "/data/lofar2.laz"]}
